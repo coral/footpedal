@@ -18,7 +18,8 @@ I'm using what I had on the shelf for this one, meaning:
 
 I designed a very simple enclosure that printed in two parts, one serving as both the base plate and the enclosure for the electronics and the second as the hood. I took the inspiration from pedals commonly seen for sewing machines and expression control for synthesizers. STL in /models
 
-Wiring it up was easy (essentially one pushbutton) and I'm using [NicoHood's HID library](https://github.com/NicoHood/HID) which makes the code EXTREMELY short.
+Wiring it up was easy (essentially one pushbutton) and I'm using [NicoHood's HID library](https://github.com/NicoHood/HID) which makes the code EXTREMELY short. This projects builds and flashes with [PlatformIO](https://platformio.org/)
 
-![image](https://github.com/coral/footpedal/blob/main/_realright.jpg?raw=true)
 ![image](https://github.com/coral/footpedal/blob/main/_allrender.png?raw=true)
+![image](https://github.com/coral/footpedal/blob/main/_realright.jpg?raw=true)
+![image](https://github.com/coral/footpedal/blob/main/_blueprint.png?raw=true)
