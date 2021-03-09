@@ -1,6 +1,10 @@
 Working remotely is draining in many ways but endless video conferencing is probably what one will miss the least about this entire experience. I've also learned that very few people seem to have grown up with long form voice conferencing and is as a result absolutely terrible at muting when not speaking. I've sat through so many meetings where people fail at muting and has microphones that sounds like they are screaming while skydiving next to a helicopter.
 
-My theory around this is that personal video conferencing quality is tied to ones organizational level. In general: **The higher up you are in the company organizational structure you are, the shittier your AV setup is.** (Coral's law for short).
+My theory around this is that personal video conferencing quality is tied to ones organizational level. In general:
+
+# The higher up you are in the company organizational structure you are, the shittier your AV setup is.
+
+- (Coral's law for short).
 
 Growing up with Ventrilo -> Teamspeak -> Discord has teached one the importance of using PTT (Push To Talk). It might sound annoying to have to hold a button everytime you want to speak but after a short time it becomes second nature, even to the point where I will press this button even though the application I'm using at the moment doesn't support PTT.
 
